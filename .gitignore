@@ -2,4 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+# ignore folder bin
+bin/
+# ignore folder obj
+obj/
+# ignore folder .vs
+.vs/
+# ignore properties
+Properties/
